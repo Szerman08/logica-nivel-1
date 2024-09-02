@@ -1,0 +1,14 @@
+#4. Quadrado - Escrever um programa que imprima a seguinte figura:
+
+print("xxxxx")
+print("x   x")
+print("x   x")
+print("x   x")
+print("xxxxx\n\n")
+
+print("ccccc   aaaaa   o   ooooo")
+print("c       a   a       o   o")
+print("c       a   a   i   o   o")
+print("c       aaaaa   i   o   o")
+print("c       a   a   i   o   o")
+print("ccccc   a   a   i   ooooo")
