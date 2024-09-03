@@ -1,0 +1,11 @@
+#7 Pinheiro  - Implemente um programa que desenhe um "pinheiro" na tela:
+
+print("         x")
+print("        xxx")
+print("       xxxxx")
+print("      xxxxxxx")
+print("     xxxxxxxxx")
+print("    xxxxxxxxxxx")
+print("   xxxxxxxxxxxxx")
+print("  xxxxxxxxxxxxxxx")
+print(" xxxxxxxxxxxxxxxxx")
