@@ -1,0 +1,9 @@
+# Solicita ao usuário a idade em anos, meses e dias
+anos = int(input("Digite a idade em anos: "))
+meses = int(input("Digite a idade em meses: "))
+
+    
+resultado = (anos * 365) + (meses * 30)
+    
+# Exibe o resultado
+print(f"A idade expressa em dias é: ", resultado, "dias")
