@@ -1,0 +1,8 @@
+27) Crie um vetor com 5 números e imprima o primeiro valor
+
+
+#Criando o vetor com 5 números
+vetor = [10, 20, 30, 40, 50]
+
+#Imprimindo o primeiro valor do vetor
+print(vetor[4])
