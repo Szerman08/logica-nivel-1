@@ -1,0 +1,11 @@
+# Criando o vetor com alguns números
+vetor = [1, 2, 3, 4, 2, 5, 2, 6]
+
+# Número que você quer contar
+numero = 2
+
+# Contando quantas vezes o número aparece no vetor
+contagem = vetor.count(numero)
+
+# Imprimindo o resultado
+print(f'O número {numero} aparece {contagem} vezes no vetor.')
