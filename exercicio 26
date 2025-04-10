@@ -1,0 +1,11 @@
+26) Ler 5 números digitados pelo usuário e armazenar em um vetor. Depois, imprime os números informados.
+
+n1 = input("Digite o 1° numero: ")
+n2 = input("Digite o 2° numero: ")
+n3 = input("Digite o 3° numero: ")
+n4 = input("Digite o 4° numero: ")
+n5 = input("Digite o 5° numero: ")
+
+lista = {n1,n2,n3,n4,n5}
+
+print("Os numeros escolhidos foram: ", n1,n2,n3,n4,n5)
